@@ -1,0 +1,44 @@
+{
+  "id": "1584334",
+  "name": "飞机大战",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3896373",
+      "name": "爆炸",
+      "font_class": "baozha",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "5285225",
+      "name": "航空航天-隐形飞机飞船",
+      "font_class": "hangkonghangtian-yinxingfeijifeichuan",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "5311237",
+      "name": "萌版航空航天-火箭rocket",
+      "font_class": "mengbanhangkonghangtian-huojianrocket",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "9646484",
+      "name": "飞机2",
+      "font_class": "feiji",
+      "unicode": "e888",
+      "unicode_decimal": 59528
+    },
+    {
+      "icon_id": "12563274",
+      "name": "飞机",
+      "font_class": "feiji1-copy",
+      "unicode": "e889",
+      "unicode_decimal": 59529
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+.content {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #F6F6F6;
+  background-image: url("../img/timg.png");
+  background-size: 100% 100%;
+}
+.content #stop {
+  position: absolute;
+  bottom: 10px;
+  right: 5px;
+  width: 40px;
+  height: 20px;
+  background-color: red;
+  color: white;
+  font-size: 14px;
+  text-align: center;
+  line-height: 20px;
+  border-radius: 5px;
+}
+.content .bo {
+  font-size: 28px;
+  color: red!important;
+}
+.content .monster {
+  font-size: 28px;
+  color: #36BEFF;
+  position: absolute;
+}
+.content .monster .monsterBullet {
+  position: absolute;
+  left: 13px;
+  top: 30px;
+  width: 5px;
+}
+.content .monster .monsterBullet .Found {
+  display: inline-block;
+  width: 5px;
+  height: 10px;
+  background-color: #FCFF73;
+  border-radius: 0 0 10px 10px;
+}
+.content #aircraft {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.content .cartridge {
+  position: fixed;
+  width: 5px;
+}
+.content .cartridge .Found {
+  display: inline-block;
+  width: 5px;
+  height: 10px;
+  background-color: #FF199E;
+  border-radius: 10px 10px 0 0;
+}
+.content #mengcheng {
+  position: fixed;
+  z-index: 100;
+  background-color: #00000030;
+  width: 100%;
+  height: 100%;
+  display: none;
+  text-align: center;
+  line-height: 500px;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+.icon {
+  width: 2.5em;
+  height: 2.5em;
+  vertical-align: -0.35em;
+  fill: currentColor;
+  overflow: hidden;
+}
